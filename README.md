@@ -7,3 +7,9 @@ A Svelte App to create fancy patterns as SVGs.
 Download as SVG, PNG or copy the SVG code.
 <br>
 Try it out here:  [Pattern Chan](https://patternchan.netlify.app/).
+
+![GUI](https://github.com/hx-ux/Pattern_Chan/blob/main/screenshots/screen.PNG?raw=true)
+
+![screen](https://github.com/hx-ux/Pattern_Chan/blob/main/examples/pattern(1).png?raw=true)
+![screen](https://github.com/hx-ux/Pattern_Chan/blob/main/examples/pattern(2).png?raw=true)
+![screen](https://github.com/hx-ux/Pattern_Chan/blob/main/examples/pattern(4).png?raw=true)
