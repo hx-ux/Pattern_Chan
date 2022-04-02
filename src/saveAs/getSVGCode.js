@@ -5,7 +5,7 @@ export default function ret() {
         svgToString = svg.outerHTML;
     }
     else {
-        svgToString="ERROR";
+        svgToString = "ERROR";
     }
 
     return svgToString;
